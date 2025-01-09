@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Webpage</title>
+</head>
+<body>
+
+	<!-- Heading -->
+	<h1>#1 Chiefs Fanpage</h1>
+
+	<!-- Paragraph -->
+	<p>The Kansas City Chiefs are the greatest sports team in the world and we are the best because we are 15-2 but basically 16-1 because if our starters would've played the broncos we would've won by a mile. We're are gonna be the the first to ever threepeat and Mahomes will undoubtedly be the GOAT.</p>
+
+	<!-- Sub-heading -->
+	<h2>Future Achievements</h2>
+
+	<!-- Unordered List -->
+	<ul>
+		<li>Threepeat and a bunch of other super bowls too</li>
+		<li>Mahomes being the GOAT</li>
+		<li>Tom Brady crying</li>
+	</ul>
+
+	<!-- Image -->
+	<img src="C:\Users\962276\Pictures\Screenshots\Screenshot 2025-01-08 101248.png" alt="Description of Image">
+
+	<!-- Image -->
+	<img src="C:\Users\962276\Downloads\chiefs-1_63842906236725.7.jpg" alt="Description of Image">
+
+	<!-- Hyperlink -->
+	<p>Visit <a href="https://example.com">Example Website</a> for more information.</p>
+
+	<!-- Button -->
+	<button type="button">Click Me!</button>
+
+</body> 
+</html>
